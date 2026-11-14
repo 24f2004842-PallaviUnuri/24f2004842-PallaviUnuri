@@ -96,7 +96,7 @@ e
 - **GitHub (Main):** [@24f2004842-PallaviUnuri](https://github.com/24f2004842-PallaviUnuri)
 - **GitHub (Personal):** [@pallavi285](https://github.com/pallavi285)
 - **YouTube:** [My YouTube Channel](https://www.youtube.com/@PallaviUnuri)
-- **Email:** 24f2004842@study.iitm.ac.in
+- **Email:** 24f2004842@ds.study.iitm.ac.in
 
 ---
 
